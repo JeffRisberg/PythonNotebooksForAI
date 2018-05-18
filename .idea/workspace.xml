@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d533f8a-44a9-4152-b99f-936e2704e217" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/logic.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Documents/60-Introduction.pptx" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/AI.ipynb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Documents/Course Summary and Instructors Bios.doc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Documents/Course_Outline.docx" afterPath="$PROJECT_DIR$/Documents/Course_Outline.docx" />
-      <change beforePath="$PROJECT_DIR$/FirstOrderLogic.ipynb" afterPath="$PROJECT_DIR$/FirstOrderLogic.ipynb" />
-      <change beforePath="$PROJECT_DIR$/SolvingBySearching.ipynb" afterPath="$PROJECT_DIR$/SolvingBySearching.ipynb" />
-      <change beforePath="$PROJECT_DIR$/Uncertainty.ipynb" afterPath="$PROJECT_DIR$/Uncertainty.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,8 +36,8 @@
       <file leaf-file-name="notebook.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/notebook.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="372" column="0" lean-forward="false" selection-start-line="372" selection-start-column="0" selection-end-line="372" selection-end-column="0" />
+            <state relative-caret-position="313">
+              <caret line="379" column="19" lean-forward="false" selection-start-line="379" selection-start-column="19" selection-end-line="379" selection-end-column="19" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -306,6 +300,7 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -327,7 +322,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -344,7 +338,8 @@
     <MESSAGE value="added notebook on Uncertainty" />
     <MESSAGE value="first edits to section on Uncertainty." />
     <MESSAGE value="brought more supporting files over." />
-    <option name="LAST_COMMIT_MESSAGE" value="brought more supporting files over." />
+    <MESSAGE value="added one more file" />
+    <option name="LAST_COMMIT_MESSAGE" value="added one more file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -443,8 +438,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/notebook.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="372" column="0" lean-forward="false" selection-start-line="372" selection-start-column="0" selection-end-line="372" selection-end-column="0" />
+        <state relative-caret-position="313">
+          <caret line="379" column="19" lean-forward="false" selection-start-line="379" selection-start-column="19" selection-end-line="379" selection-end-column="19" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
