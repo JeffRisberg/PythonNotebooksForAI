@@ -2,16 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d533f8a-44a9-4152-b99f-936e2704e217" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Documents/65-ChallengesInModeling.pptx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Documents/70-OtherMachineLearningModels.pptx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Documents/75-NeuralNetworks.pptx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Documents/80-ConvNeuralNetworks.pptx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Documents/90-Conclusion.pptx" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Documents/70-ChallengesInModeling.pptx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Documents/80-OtherMachineLearningModels.pptx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Documents/90-NeuralNetworks.pptx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Documents/Instructor's Notes.doc" afterPath="$PROJECT_DIR$/Documents/Instructor's Notes.doc" />
+      <change beforePath="$PROJECT_DIR$/images/ann/README" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/autoencoders/README" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/cnn/README" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/cnn/test_image.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/deep/README" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/distributed/README" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/ensembles/README" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/rl/README" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/rnn/README" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/svm/README" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/training_linear_models/README" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/training_linear_models/early_stopping_plot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/training_linear_models/generated_data_plot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/training_linear_models/gradient_descent_paths_plot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/training_linear_models/gradient_descent_plot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/training_linear_models/high_degree_polynomials_plot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/training_linear_models/lasso_regression_plot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/training_linear_models/lasso_vs_ridge_plot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/training_linear_models/learning_curves_plot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/training_linear_models/linear_model_predictions.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/training_linear_models/logistic_function_plot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/training_linear_models/logistic_regression_contour_plot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/training_linear_models/logistic_regression_plot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/training_linear_models/quadratic_data_plot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/training_linear_models/quadratic_predictions_plot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/training_linear_models/ridge_regression_plot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/training_linear_models/softmax_regression_contour_plot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/training_linear_models/underfitting_learning_curves_plot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/unsupervised_learning/README" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/unsupervised_learning/ladybug.png" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,7 +65,7 @@
       <file leaf-file-name="notebook.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/notebook.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
+            <state relative-caret-position="371">
               <caret line="379" column="19" lean-forward="false" selection-start-line="379" selection-start-column="19" selection-end-line="379" selection-end-column="19" />
               <folding />
             </state>
@@ -168,6 +189,17 @@
             <path>
               <item name="PythonNotebooksForAI" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonNotebooksForAI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonNotebooksForAI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonNotebooksForAI" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonNotebooksForAI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonNotebooksForAI" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="end_to_end_project" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -301,13 +333,14 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43157893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48120302" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2639485" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -322,7 +355,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -345,7 +377,10 @@
     <MESSAGE value="updated slides and added new notebooks" />
     <MESSAGE value="added neural network" />
     <MESSAGE value="adjusted to be non-binary, and use TF digit loader." />
-    <option name="LAST_COMMIT_MESSAGE" value="adjusted to be non-binary, and use TF digit loader." />
+    <MESSAGE value="added and renumbered files" />
+    <MESSAGE value="filled in details" />
+    <MESSAGE value="added confusion matrix example" />
+    <option name="LAST_COMMIT_MESSAGE" value="added confusion matrix example" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -461,7 +496,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/notebook.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
+        <state relative-caret-position="371">
           <caret line="379" column="19" lean-forward="false" selection-start-line="379" selection-start-column="19" selection-end-line="379" selection-end-column="19" />
           <folding />
         </state>
