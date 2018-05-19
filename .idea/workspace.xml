@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d533f8a-44a9-4152-b99f-936e2704e217" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Documents/60-Introduction.pptx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prosperLoanData.csv" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Documents/10-Introduction.pptx" afterPath="$PROJECT_DIR$/Documents/10-Introduction.pptx" />
+      <change beforePath="$PROJECT_DIR$/Documents/60-Introduction.pptx" afterPath="$PROJECT_DIR$/Documents/60-Introduction.pptx" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -339,7 +341,8 @@
     <MESSAGE value="first edits to section on Uncertainty." />
     <MESSAGE value="brought more supporting files over." />
     <MESSAGE value="added one more file" />
-    <option name="LAST_COMMIT_MESSAGE" value="added one more file" />
+    <MESSAGE value="added 60-introduction" />
+    <option name="LAST_COMMIT_MESSAGE" value="added 60-introduction" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
