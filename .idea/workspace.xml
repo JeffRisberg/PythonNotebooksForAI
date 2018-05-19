@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d533f8a-44a9-4152-b99f-936e2704e217" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/04-DecisionTrees.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/05-SimpleClassification.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/06-NeuralNetwork.ipynb" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -339,7 +336,8 @@
     <MESSAGE value="added 60-introduction" />
     <MESSAGE value="updated slides" />
     <MESSAGE value="updated slides and added new notebooks" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated slides and added new notebooks" />
+    <MESSAGE value="added neural network" />
+    <option name="LAST_COMMIT_MESSAGE" value="added neural network" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
