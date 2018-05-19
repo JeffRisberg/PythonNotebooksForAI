@@ -2,61 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d533f8a-44a9-4152-b99f-936e2704e217" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/01-GradientDescent.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02-MachineLearningProject.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/03-TrainingLinearModels.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Documents/70-ChallengesInModeling.pptx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Documents/80-OtherMachineLearningModels.pptx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Documents/90-NeuralNetworks.pptx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SGD_data.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/datasets/housing/housing.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/datasets/housing/housing.tgz" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/ann/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/autoencoders/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/classification/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/cnn/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/cnn/test_image.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/decision_trees/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/deep/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/distributed/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/end_to_end_project/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/end_to_end_project/attribute_histogram_plots.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/end_to_end_project/bad_visualization_plot.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/end_to_end_project/better_visualization_plot.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/end_to_end_project/california.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/end_to_end_project/california_housing_prices_plot.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/end_to_end_project/housing_prices_scatterplot.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/end_to_end_project/income_vs_house_value_scatterplot.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/end_to_end_project/scatter_matrix_plot.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/ensembles/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/fundamentals/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/rl/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/rnn/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/svm/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/tensorflow/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/training_linear_models/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/training_linear_models/early_stopping_plot.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/training_linear_models/generated_data_plot.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/training_linear_models/gradient_descent_paths_plot.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/training_linear_models/gradient_descent_plot.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/training_linear_models/high_degree_polynomials_plot.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/training_linear_models/lasso_regression_plot.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/training_linear_models/lasso_vs_ridge_plot.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/training_linear_models/learning_curves_plot.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/training_linear_models/linear_model_predictions.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/training_linear_models/logistic_function_plot.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/training_linear_models/logistic_regression_contour_plot.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/training_linear_models/logistic_regression_plot.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/training_linear_models/quadratic_data_plot.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/training_linear_models/quadratic_predictions_plot.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/training_linear_models/ridge_regression_plot.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/training_linear_models/sgd_plot.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/training_linear_models/softmax_regression_contour_plot.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/training_linear_models/underfitting_learning_curves_plot.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/unsupervised_learning/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/unsupervised_learning/ladybug.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Documents/60-Introduction.pptx" afterPath="$PROJECT_DIR$/Documents/60-Introduction.pptx" />
+      <change beforePath="$PROJECT_DIR$/02-MachineLearningProject.ipynb" afterPath="$PROJECT_DIR$/02-MachineLearningProject.ipynb" />
+      <change beforePath="$PROJECT_DIR$/03-TrainingLinearModels.ipynb" afterPath="$PROJECT_DIR$/03-TrainingLinearModels.ipynb" />
+      <change beforePath="$PROJECT_DIR$/Documents/80-OtherMachineLearningModels.pptx" afterPath="$PROJECT_DIR$/Documents/80-OtherMachineLearningModels.pptx" />
+      <change beforePath="$PROJECT_DIR$/images/training_linear_models/sgd_plot.png" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -214,16 +164,6 @@
             <path>
               <item name="PythonNotebooksForAI" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonNotebooksForAI" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonNotebooksForAI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonNotebooksForAI" type="462c0819:PsiDirectoryNode" />
-              <item name="Documents" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonNotebooksForAI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonNotebooksForAI" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -399,7 +339,8 @@
     <MESSAGE value="added one more file" />
     <MESSAGE value="added 60-introduction" />
     <MESSAGE value="updated slides" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated slides" />
+    <MESSAGE value="updated slides and added new notebooks" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated slides and added new notebooks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
