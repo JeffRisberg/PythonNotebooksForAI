@@ -2,37 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d533f8a-44a9-4152-b99f-936e2704e217" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/training_linear_models/README" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/training_linear_models/generated_data_plot.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/training_linear_models/sgd_plot.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/images/ann/README" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/autoencoders/README" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/cnn/README" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/cnn/test_image.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/deep/README" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/distributed/README" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/ensembles/README" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/rl/README" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/rnn/README" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/svm/README" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/training_linear_models/README" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/training_linear_models/early_stopping_plot.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/training_linear_models/generated_data_plot.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/training_linear_models/gradient_descent_paths_plot.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/training_linear_models/gradient_descent_plot.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/training_linear_models/high_degree_polynomials_plot.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/training_linear_models/lasso_regression_plot.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/training_linear_models/lasso_vs_ridge_plot.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/training_linear_models/learning_curves_plot.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/training_linear_models/linear_model_predictions.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/training_linear_models/logistic_function_plot.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/training_linear_models/logistic_regression_contour_plot.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/training_linear_models/logistic_regression_plot.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/training_linear_models/quadratic_data_plot.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/training_linear_models/quadratic_predictions_plot.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/training_linear_models/ridge_regression_plot.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/training_linear_models/softmax_regression_contour_plot.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/training_linear_models/underfitting_learning_curves_plot.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/unsupervised_learning/README" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/unsupervised_learning/ladybug.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/03-TrainingLinearModels.ipynb" afterPath="$PROJECT_DIR$/03-TrainingLinearModels.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -65,7 +39,7 @@
       <file leaf-file-name="notebook.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/notebook.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
+            <state relative-caret-position="314">
               <caret line="379" column="19" lean-forward="false" selection-start-line="379" selection-start-column="19" selection-end-line="379" selection-end-column="19" />
               <folding />
             </state>
@@ -73,6 +47,11 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/images</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
@@ -124,7 +103,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="760" />
@@ -181,8 +160,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,18 +172,14 @@
               <item name="PythonNotebooksForAI" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PythonNotebooksForAI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonNotebooksForAI" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="end_to_end_project" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -329,7 +302,7 @@
     <option name="runUnderTerminal" value="true" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="760" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="704" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -340,11 +313,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48120302" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37931034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2639485" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26817447" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -356,7 +330,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -380,13 +353,38 @@
     <MESSAGE value="added and renumbered files" />
     <MESSAGE value="filled in details" />
     <MESSAGE value="added confusion matrix example" />
-    <option name="LAST_COMMIT_MESSAGE" value="added confusion matrix example" />
+    <MESSAGE value="removed images" />
+    <MESSAGE value="added some Word docs about Python-oriented tools." />
+    <option name="LAST_COMMIT_MESSAGE" value="added some Word docs about Python-oriented tools." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SudokuSearch.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5685">
+          <caret line="379" column="19" lean-forward="false" selection-start-line="379" selection-start-column="19" selection-end-line="379" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SudokuSearch.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -496,7 +494,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/notebook.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
+        <state relative-caret-position="314">
           <caret line="379" column="19" lean-forward="false" selection-start-line="379" selection-start-column="19" selection-end-line="379" selection-end-column="19" />
           <folding />
         </state>
